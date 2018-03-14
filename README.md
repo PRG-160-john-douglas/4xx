@@ -9,3 +9,8 @@ nightwolfonline version 401.0
 	- created the appData object
 	- moved the title & tag line variables in to appData
 	- refactord the initializeApplication function.
+	
+nightwolfonline version 401.1
+	- added bootstrap to the index.html
+	- added a DOM injection of the progressbar in the app.js
+	- created the displayPB function in the app.js
